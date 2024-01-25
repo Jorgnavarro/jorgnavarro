@@ -1,5 +1,5 @@
 ### Hi i'm Luis 👋🏾👨🏾‍💻
-![bannerGitHub](https://github.com/Jorgnavarro/jorgnavarro/assets/106134862/00bc1a70-4c3c-43e1-b5ed-44a3d670a260)
+![bannerGitHub (1)](https://github.com/Jorgnavarro/jorgnavarro/assets/106134862/2a310385-1469-43b6-ba24-7f1c6d6103d2)
 <!--
 **Jorgnavarro/jorgnavarro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
