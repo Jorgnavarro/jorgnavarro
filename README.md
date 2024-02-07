@@ -1,4 +1,11 @@
 ### <h1>Hi i'm Jorge 👋🏾👨🏾‍💻</h1>
+
+<div align='right'>
+  <a href="https://github.com/Jorgnavarro">
+   <img src="https://komarev.com/ghpvc/?username=Jorgnavarro&style=flat-square" />
+ </a>
+</div>
+  
 <p align='center'>
 <img src='https://github.com/Jorgnavarro/jorgnavarro/assets/106134862/2a310385-1469-43b6-ba24-7f1c6d6103d2'>
 </p>
@@ -22,13 +29,13 @@ I am a Full Stack web developer, I really enjoy programming and designing web se
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 
-
 ### Other Languages I know
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> 
 
 ### You can find in me in the web 🌍
 - [LinkedIn](https://www.linkedin.com/in/jorgeluisnavarrop/)
-
+  
+ 
 <!--
 **Jorgnavarro/jorgnavarro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
