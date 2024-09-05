@@ -1,5 +1,4 @@
-### <h1>Hi i'm Jorge 👋🏾👨🏾‍💻</h1>
-
+### <h1>Hi I'm Jorge👋🏽🧑🏽‍💻👽🪄🎮🕹️</h1>
 <div align='right'>
   <a href="https://github.com/Jorgnavarro">
    <img src="https://komarev.com/ghpvc/?username=Jorgnavarro&style=flat-square" />
