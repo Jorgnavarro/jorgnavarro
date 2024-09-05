@@ -3,12 +3,11 @@
 <div align='right'>
   <a href="https://github.com/Jorgnavarro">
    <img src="https://komarev.com/ghpvc/?username=Jorgnavarro&style=flat-square" />
-  ![1348928 (1)](https://github.com/user-attachments/assets/2077768b-15c7-455d-8d3e-cf1c0e1f0877)
  </a>
 </div>
   
 <p align='center'>
-<img src='https://github.com/Jorgnavarro/jorgnavarro/issues/2#issue-2508584250'>
+<img src='https://github.com/user-attachments/assets/2077768b-15c7-455d-8d3e-cf1c0e1f0877'>
 </p>
 
 I am a Full Stack web developer, I really enjoy programming and designing web services with Javascript. I focus on creating dynamic, interactive and intuitive sites for users. Currently I work more on the Front End using the React library, but I can also work on the Back End using NodeJs.
