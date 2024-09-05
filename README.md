@@ -3,6 +3,7 @@
 <div align='right'>
   <a href="https://github.com/Jorgnavarro">
    <img src="https://komarev.com/ghpvc/?username=Jorgnavarro&style=flat-square" />
+  ![1348928 (1)](https://github.com/user-attachments/assets/2077768b-15c7-455d-8d3e-cf1c0e1f0877)
  </a>
 </div>
   
