@@ -27,12 +27,13 @@
   <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/-Postman-FE703F?style=flat&logo=postman&logoColor=white&logoSize=auto">
-  <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/-MySQL-4A7DA4?style=flat&logo=mysql&logoColor=white&logoSize=auto">
   <img src="https://img.shields.io/badge/-Cypress-38E384?style=flat&logo=cypress&logoColor=white&logoSize=auto">
   <img src="https://img.shields.io/badge/-JUnit5-2CA467?style=flat&logo=junit5&logoColor=white&logoSize=auto">
   <img src="https://img.shields.io/badge/-Jest-B44662?style=flat&logo=jest&logoColor=white&logoSize=auto">
   <img src ="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
   <img src ="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white&logoSize=auto">
   <img src ="https://img.shields.io/badge/-Figma-F25425?style=flat&logo=figma&logoColor=white&logoSize=auto">
   <img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat">
   <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
