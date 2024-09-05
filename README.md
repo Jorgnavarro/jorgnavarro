@@ -11,7 +11,7 @@
 <img src='https://github.com/user-attachments/assets/df5f7ea1-eee3-461a-a42a-6505ff7e3e52'>
 </p>
 
-<p align='justify'>I am a Unity developer with a solid background in C#, a passion for creating interactive experiences, with a special focus on game development. I specialize in Gameplay Programming/Technical Game Designer, code optimization, and bug fixing, and I also have skills in backend development with Java and Node.js, and frontend development with React and Bootstrap, gained through both personal projects and teamwork.</p>
+<p align='center'>I am a Unity developer with a solid background in C#, a passion for creating interactive experiences, with a special focus on game development. I specialize in Gameplay Programming/Technical Game Designer, code optimization, and bug fixing, and I also have skills in backend development with Java and Node.js, and frontend development with React and Bootstrap, gained through both personal projects and teamwork.</p>
 
 ### <h2 align="center">Tech & Tools Preference</h2>
 <div align="center">
