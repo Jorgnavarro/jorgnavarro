@@ -7,7 +7,7 @@
 </div>
   
 <p align='center'>
-<img src='https://github.com/Jorgnavarro/jorgnavarro/assets/106134862/2a310385-1469-43b6-ba24-7f1c6d6103d2'>
+<img src='https://github.com/Jorgnavarro/jorgnavarro/issues/2#issue-2508584250'>
 </p>
 
 I am a Full Stack web developer, I really enjoy programming and designing web services with Javascript. I focus on creating dynamic, interactive and intuitive sites for users. Currently I work more on the Front End using the React library, but I can also work on the Back End using NodeJs.
